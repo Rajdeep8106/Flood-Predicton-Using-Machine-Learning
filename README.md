@@ -40,5 +40,5 @@ The main goal of this project is to predict the likelihood of floods based on ra
   - `pandas` and `numpy` for data manipulation
   - `matplotlib` and `seaborn` for data visualization
 - **Dataset:** Kerala Rainfall Data
-### 4.COntributors
+### 4.Contributors
 Name-Rajdeep Jujaru
